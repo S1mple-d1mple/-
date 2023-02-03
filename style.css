@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+header ,main,footer{
+background-color: #2B9568;
+}
+
+header,footer{
+    background-color: #2B9568;
+    height: 190px;
+    
+}
+
+main{
+background-color: #D0E7E1;
+}
+
+
+h2,h1{
+    text-align: center;
+}
+
+img{
+    height: 200px;
+    width: 300px;
+}
+
+
+botton,{
+    text-decoration:none;
+    color:black;
+    font-size: 25px;
+    margin-left: 15px;
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
